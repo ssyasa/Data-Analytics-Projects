@@ -1,7 +1,3 @@
-Here’s an enhanced version of the README file with a more detailed and structured point-wise explanation for a GitHub repository:
-
----
-
 # **Data Analytics Projects**
 
 Welcome to the **data-analytics-projects** repository! This repository showcases a collection of data analytics projects developed using **Power BI**, designed to extract actionable insights from diverse datasets. The projects deliver valuable visualizations that assist in data-driven decision-making across various industries.
