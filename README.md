@@ -1,4 +1,4 @@
-##**Data Analytics Projects**
+## **Data Analytics Projects**
 
 Welcome to the data-analytics-projects repository! This collection showcases a variety of data analytics projects created using Power BI, each designed to extract actionable insights from diverse datasets. These projects offer valuable visualizations to aid in data-driven decision-making across industries.
 
