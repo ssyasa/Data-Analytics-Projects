@@ -33,86 +33,62 @@ Open the desired .pbix file in Power BI Desktop. Make sure you have Power BI ins
 
 Explore the dashboards and reports to gain insights from the data.
 
-**Project Descriptions**
-
-**PR Reconciliation Dashboard**
-
+Overview
+This repository contains various data analytics projects aimed at providing insights and visualizations for different datasets. Each project utilizes tools such as Power BI, SQL, Python, and Excel to analyze data and present findings effectively. Below are detailed descriptions of each project, including their key features and technologies used.
+Projects
+1. Analysis on Udemy Online Course Data
+File: udemy-course-analysis.pbix
+Description: This project analyzes data from Udemy courses to identify trends in course ratings, enrollment numbers, and topics of interest. The insights can help course creators optimize their offerings and marketing strategies.
+Key Features:
+Course rating trends over time
+Enrollment statistics by course category
+Comparative analysis of popular topics
+2. Train Ticket Analysis
+File: train-ticket-analysis.pbix
+Description: This analysis focuses on train ticket sales data, examining patterns in ticket purchases, peak travel times, and customer demographics. The findings aim to assist railway companies in improving service offerings.
+Key Features:
+Visualization of ticket sales trends
+Analysis of peak travel periods
+Customer demographic insights
+3. PR Reconciliation Dashboard
 File: PR Reconciliation Dashboard.pbix
-
 Description: This dashboard is designed to help reconcile purchase requests with invoices, providing insights into discrepancies and approval statuses. It features interactive filters that allow users to drill down by department, date, and status.
-
-**Key Features:**
-
+Key Features:
 Visual representation of purchase requests vs. invoices
-
 Filters for quick analysis
-
 Summary statistics on approval times
-
-**Zomato Dashboard**
-
+4. Zomato Dashboard
 File: Zomato Dashboard.pbix
-
 Description: An interactive dashboard analyzing restaurant data from Zomato, showcasing trends in ratings, reviews, and cuisine types across different locations. This project aims to help restaurant owners and food enthusiasts make informed decisions.
-
-**Key Features:**
-
+Key Features:
 Geographic heat maps of restaurant ratings
-
 Trend analysis over time for various cuisines
-
 Sentiment analysis based on customer reviews
-
-**Customer Churn Analysis**
-
+5. Customer Churn Analysis
 File: customer-churn-analysis.pbix
-
 Description: This project focuses on analyzing customer churn in a subscription-based service, identifying factors that contribute to customer retention and attrition. The insights can help businesses improve their retention strategies.
-
-**Key Features:**
-
+Key Features:
 Predictive modeling for churn risk assessment
-
 Customer segmentation based on behavior
-
 Visualization of churn trends over time
-
-**Telecom Data Analysis**
-
+6. Telecom Data Analysis
 File: telecom.pbix
-
 Description: An analysis of telecom customer data aimed at understanding usage patterns, customer demographics, and service satisfaction levels. This project helps telecom companies enhance their service offerings.
-
-**Key Features:**
-
+Key Features:
 Analysis of customer demographics and usage patterns
-
 Satisfaction score tracking across different services
-
 Recommendations for targeted marketing strategies
-
-**Technologies Used**
-
+Technologies Used
 This repository utilizes a variety of technologies and tools, including:
-
 Power BI: For data visualization and dashboard creation.
-
 DAX (Data Analysis Expressions): For data modeling and calculations within Power BI.
-
 SQL: For data extraction and manipulation (if applicable).
-
 Excel: For preliminary data analysis and cleaning (if applicable).
-
 Python/R: For advanced analytics (if applicable).
-
-**Data Sources**
-
+Data Sources
 Each project uses different datasets that may include:
-
 Publicly available datasets from platforms like Kaggle or government databases.
-
 APIs from services like Zomato for real-time data retrieval.
-
 Please refer to each project's documentation for specific data sources used.
 
 **Contributing**
