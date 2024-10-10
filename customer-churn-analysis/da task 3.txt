@@ -1,0 +1,4 @@
+Churn Rate = DIVIDE(SUM(telecom_churn[Churn Indicator]), COUNTROWS(telecom_churn), 0)
+
+
+Churn Indicator = IF(telecom_churn[Churn] = 1, 1, 0)
