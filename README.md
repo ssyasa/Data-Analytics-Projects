@@ -76,6 +76,8 @@ To explore any of the data analytics projects, follow these steps:
    - Geographic heat maps visualizing restaurant ratings across different regions.
    - Trend analysis of various cuisines over time.
    - Sentiment analysis based on customer reviews to gauge satisfaction.
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Zomato-Power-Bi-Dashboard/Screenshot%202024-10-10%20183509.png)
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Zomato-Power-Bi-Dashboard/Screenshot%202024-10-10%20183453.png)
 
 ---
 
@@ -89,6 +91,7 @@ To explore any of the data analytics projects, follow these steps:
    - Customer segmentation based on behavior and subscription patterns.
    - Visual representation of churn trends over different time periods.
 
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Zomato-Power-Bi-Dashboard/Screenshot%202024-10-10%20183453.png)
 ---
 
 ### 4. **Telecom Data Analysis**
@@ -100,6 +103,9 @@ To explore any of the data analytics projects, follow these steps:
    - Demographic analysis of telecom customers to understand age, gender, and location distribution.
    - Identification of usage patterns for various telecom services (calls, data, etc.).
    - Tracking of satisfaction scores, providing actionable insights for targeted marketing.
+
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Screenshot%202024-10-10%20191949.png)
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Screenshot%202024-10-10%20191939.png)
 
 ---
 
