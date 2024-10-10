@@ -91,7 +91,11 @@ To explore any of the data analytics projects, follow these steps:
    - Customer segmentation based on behavior and subscription patterns.
    - Visual representation of churn trends over different time periods.
 
-![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Zomato-Power-Bi-Dashboard/Screenshot%202024-10-10%20183453.png)
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/customer-churn-analysis/Screenshot%202024-10-10%20193116.png)
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/customer-churn-analysis/Screenshot%202024-10-10%20193045.png)
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/customer-churn-analysis/Screenshot%202024-10-10%20193103.png)
+
+
 ---
 
 ### 4. **Telecom Data Analysis**
