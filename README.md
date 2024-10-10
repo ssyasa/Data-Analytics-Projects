@@ -65,8 +65,8 @@ To explore any of the data analytics projects, follow these steps:
    - Department-wise filtering for detailed analysis.
    - Summary statistics showing average approval times for PRs.
 
-![image]()
-![image]()
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/PR%20Reconciliation%20Dashboard/Screenshot%202024-10-10%20194121.png)
+
 
 ---
 
