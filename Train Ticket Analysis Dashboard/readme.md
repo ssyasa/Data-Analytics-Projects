@@ -42,3 +42,5 @@
 - The insights reveal strong performance in ticket sales, especially for standard class and adult passengers. However, there are opportunities for growth in concessionary ticket sales and first-class services.
 - Price optimization across different seasons and an increased focus on reducing travel delays, particularly during peak hours, could further improve profitability and customer satisfaction.
 - Encouraging more online purchases through promotional campaigns or ease-of-use improvements could help reduce operational costs and increase convenience for passengers.
+
+!image(https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Train%20Ticket%20Analysis%20Dashboard/Screenshot%202024-10-10%20153106.png)
