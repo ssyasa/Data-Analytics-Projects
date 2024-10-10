@@ -68,7 +68,7 @@ This Power BI dashboard is designed to provide deep insights into Zomato’s res
 
 ## 📊 Preview of the Dashboard
 
-> [Include a screenshot or link to the dashboard preview]
+https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Zomato-Power-Bi-Dashboard/Screenshot%202024-10-10%20183453.png
 
 ---
 
