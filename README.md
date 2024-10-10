@@ -65,6 +65,9 @@ To explore any of the data analytics projects, follow these steps:
    - Department-wise filtering for detailed analysis.
    - Summary statistics showing average approval times for PRs.
 
+![image]()
+![image]()
+
 ---
 
 ### 2. **Zomato Dashboard**
@@ -76,6 +79,7 @@ To explore any of the data analytics projects, follow these steps:
    - Geographic heat maps visualizing restaurant ratings across different regions.
    - Trend analysis of various cuisines over time.
    - Sentiment analysis based on customer reviews to gauge satisfaction.
+     
 ![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Zomato-Power-Bi-Dashboard/Screenshot%202024-10-10%20183509.png)
 ![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Zomato-Power-Bi-Dashboard/Screenshot%202024-10-10%20183453.png)
 
@@ -122,6 +126,7 @@ To explore any of the data analytics projects, follow these steps:
    - Course rating trends across different time periods.
    - Enrollment statistics grouped by course categories.
    - Comparative analysis of popular course topics to identify growing interests.
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Analysis%20on%20Udemy%20online%20course%20data/Analysis%20on%20Udemy%20online%20course%20data.png)
 
 ---
 
@@ -134,6 +139,11 @@ To explore any of the data analytics projects, follow these steps:
    - Visualization of ticket sales trends over time.
    - Analysis of peak travel periods and their impact on sales.
    - Demographic insights into the customer base, including age and travel preferences.
+
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Train%20Ticket%20Analysis%20Dashboard/Screenshot%202024-10-10%20153106.png)
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Train%20Ticket%20Analysis%20Dashboard/Screenshot%202024-10-10%20153132.png)
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Train%20Ticket%20Analysis%20Dashboard/Screenshot%202024-10-10%20153147.png)
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Train%20Ticket%20Analysis%20Dashboard/Screenshot%202024-10-10%20153159.png)
 
 ---
 
