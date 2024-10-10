@@ -180,15 +180,6 @@ Feel free to open **issues** for any bug reports, suggestions, or feature reques
 
 ---
 
-## **License**
-
-This repository is licensed under the **MIT License**.  
-Please see the [LICENSE](LICENSE) file for more details.
-
----
-
 Enhance your data analysis journey by exploring these projects and contributing your expertise!
 
----
-
-This enhanced README provides clearer structure, detailed explanations of the projects and technologies used, and a step-by-step guide for contributing to the repository. Let me know if you'd like any further adjustments!
+This README provides clearer structure, detailed explanations of the projects and technologies used, and a step-by-step guide for contributing to the repository. Let me know if you'd like any further adjustments!
