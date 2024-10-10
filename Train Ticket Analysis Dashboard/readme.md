@@ -44,3 +44,10 @@
 - Encouraging more online purchases through promotional campaigns or ease-of-use improvements could help reduce operational costs and increase convenience for passengers.
 
 ![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Train%20Ticket%20Analysis%20Dashboard/Screenshot%202024-10-10%20153106.png)
+
+
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Train%20Ticket%20Analysis%20Dashboard/Screenshot%202024-10-10%20153132.png)
+
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Train%20Ticket%20Analysis%20Dashboard/Screenshot%202024-10-10%20153147.png)
+
+![image](https://github.com/ssyasa/Data-Analytics-Projects/blob/main/Train%20Ticket%20Analysis%20Dashboard/Screenshot%202024-10-10%20153159.png)
